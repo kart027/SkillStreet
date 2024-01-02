@@ -48,3 +48,14 @@ Environment Variables:
     ```
 - **Delete Note**:
   - `DELETE /api/notes/:id`
+ 
+
+for testing run command 
+
+## Testing
+
+To run tests, use the following command:
+
+```bash
+npx mocha test/noteRoutes.test.js
+
